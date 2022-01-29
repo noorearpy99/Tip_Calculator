@@ -36,8 +36,7 @@ Here's a walkthrough of implemented user stories:
 GIF created with [Recordit](https://recordit.co/).
 
 ## Notes
-
-Describe any challenges encountered while building the app.
+I didn't face any issue but I struggled to code as I don't have that much experience in coding, specially in iOS. But the rest I completed according to the Codepath's tutorial and some other resources.
 
 ## License
 
